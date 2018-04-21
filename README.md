@@ -23,4 +23,4 @@ After the stack is empty, The file Application.cpp is ran. It contains 2 differe
 
 The output on the terminal looks like result.png.
 
-![Result](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/Result.png?raw=true)
+![Result](https://github.com/azamzow/ADT-Stack-using-STL-Vecor/blob/master/Result.png?raw=true)

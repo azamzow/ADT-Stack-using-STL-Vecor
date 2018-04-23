@@ -19,7 +19,7 @@ $ /hello
 
 The program runs the make file which executes both Application.cpp and My_Stack.cpp. The file My_Stack.cpp creates a vector, and adds/removes integers from the vector using push/pop. It first tells the user what integers it is adding onto the stack, then After each pop it tells the user if the stack is empty or not. 
 
-After the stack is empty, The file Application.cpp is ran. It contains 2 different spans each containing 3 distinctive arrays. The run the same algorithm, but the output is different because of the distinctive arrays. 
+After the stack is empty, The file Application.cpp is ran. It contains 2 different spans each containing 3 distinctive arrays. They run the same algorithm, but the output is different because of the distinctive arrays. 
 
 The output on the terminal looks like result.png.
 
